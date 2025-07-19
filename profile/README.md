@@ -1,6 +1,4 @@
-# 👋Hi, This is Flyatcsim Sector Studio
----
-# 👋嗨，这里是Flyatcsim Sector Studio
+# 👋Hi, This is Flyatcsim Sector Studio | 👋嗨，这里是Flyatcsim Sector Studio
 
 ![](https://quotes-github-readme.vercel.app/api?type=vertical)
 
